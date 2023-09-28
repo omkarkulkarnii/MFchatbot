@@ -8,5 +8,9 @@ This bot is generated with the help of Azure Cloud Services and intend to be use
 ##  Directly ask questions using Telegram Bot!! Yes , I have also channeled this bot to telegram for easy access
  ### Check out: http://t.me/Mfbyomkar_bot
 
+# References
+#### *Excel File* (https://github.com/omkarkulkarnii/MFchatbot/blob/main/trailqna.xlsx)
+  #### *Kaggle Indian Mutual Fund Dataset*
+####   *A digital blogger* (https://www.adigitalblogger.com)
  
  
